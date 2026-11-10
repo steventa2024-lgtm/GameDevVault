@@ -2,9 +2,9 @@
 
 **A private workspace for game development teams.** Share project files, review asset revisions, and keep conversations and design decisions with the work they describe.
 
-[Open GameDev Vault](https://gamedev-vault-staging-qa-zeropulse.vercel.app) · [Desktop installation guide](https://gamedev-vault-staging-qa-zeropulse.vercel.app/install) · [Latest preview release](https://github.com/steventa2024-lgtm/GameDevVault-Showcase/releases/tag/v1.2.1-preview)
+[Open GameDev Vault](https://gamedevvault.vercel.app) · [Desktop installation guide](https://gamedevvault.vercel.app/install) · [Latest preview release](https://github.com/steventa2024-lgtm/GameDevVault-Showcase/releases/tag/v1.2.1-preview)
 
-![GameDev Vault workspace showing channel chat, asset revisions, and a rotating 3D model](https://gamedev-vault-staging-qa-zeropulse.vercel.app/assets/gamedev-vault-demo.gif)
+![GameDev Vault workspace showing channel chat, asset revisions, and a rotating 3D model](https://gamedevvault.vercel.app/assets/gamedev-vault-demo.gif)
 
 ## Desktop downloads
 
@@ -29,7 +29,7 @@ The Mac preview builds are ad-hoc signed and unnotarized. The Windows installer 
 
 ## Get started
 
-1. Sign in on the [website](https://gamedev-vault-staging-qa-zeropulse.vercel.app) or open the desktop app.
+1. Sign in on the [website](https://gamedevvault.vercel.app) or open the desktop app.
 2. Create a workspace for your project or join one through a teammate’s invitation.
 3. Drop an asset into the Channel Vault, then open it in the Inspector or Studio View for review.
 
