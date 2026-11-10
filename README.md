@@ -10,10 +10,15 @@ GameDev Vault gives game teams a private workspace to share builds and art, revi
 
 Use your existing Vault account to open the same workspaces, chats, notes, and files on the website and in the desktop app.
 
-| Platform | Version 1.2.0 test build |
+The current installers are preview builds. The macOS app is ad-hoc signed and the Windows installer is unsigned.
+
+| Platform | Version 1.2.1 preview |
 | --- | --- |
-| macOS with Apple silicon | [Download DMG](https://tcwlfvzuhgfg0rct.public.blob.vercel-storage.com/GameDev-Vault-1.2.0-mac-arm64.dmg) |
-| Windows x64 | [Download EXE](https://tcwlfvzuhgfg0rct.public.blob.vercel-storage.com/GameDev-Vault-1.2.0-win-x64.exe) |
+| macOS with Apple silicon | [Download DMG](https://github.com/steventa2024-lgtm/GameDevVault-Showcase/releases/download/v1.2.1-preview/GameDev-Vault-1.2.1-mac-arm64.dmg) |
+| macOS with Intel | [Download DMG](https://github.com/steventa2024-lgtm/GameDevVault-Showcase/releases/download/v1.2.1-preview/GameDev-Vault-1.2.1-mac-x64.dmg) |
+| Windows x64 | [Download EXE](https://github.com/steventa2024-lgtm/GameDevVault-Showcase/releases/download/v1.2.1-preview/GameDev-Vault-1.2.1-win-x64.exe) |
+
+[Release notes and SHA-256 checksums](https://github.com/steventa2024-lgtm/GameDevVault-Showcase/releases/tag/v1.2.1-preview)
 
 ## What you can do
 
