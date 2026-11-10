@@ -25,10 +25,15 @@ Use your existing Vault account to open the same workspaces, chats, notes, and f
 
 ## Asset previews
 
+The web and desktop apps use the same Vault. Drop originals onto the Channel Vault or use **Upload files**.
+
 | Asset | Preview |
 | --- | --- |
 | GLB, self-contained glTF, FBX, and OBJ | Interactive geometry. Supported models can also play embedded animation clips. |
+| BVH motion capture | Play and scrub motion on the file’s own skeleton. |
 | Images, audio, and video | Preview supported browser formats, including PNG, GIF, WAV, MP3, MP4, and WebM. |
+| Animated GIF, APNG, and WebP | Inspect individual frames and play the animation in browsers with a compatible image decoder. |
 | Roblox models and places | Inspect supported part layouts, schematic poses, and effect metadata. Use an exported GLB for original meshes or a Studio recording for rendered effects. |
-| Shaders, scenes, and configs | Read supported UTF-8 source files up to 1 MiB. |
+| Lua and Luau | Read, highlight, and copy script source in the inspector. |
+| Unity `.anim`, shaders, scenes, and configs | Read supported source files up to 1 MiB. Link an engine export or recording for rendered playback. |
 | Blender, PSD, and project archives | View metadata, download the original, or link a companion preview. |
